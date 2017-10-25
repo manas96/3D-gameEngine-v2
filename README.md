@@ -2,5 +2,24 @@
 New game engine
 
 
-
+GTA V graphics
 http://www.adriancourreges.com/blog/2015/11/02/gta-v-graphics-study/
+
+Doom graphics
+http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/
+
+Doom Engine review
+http://fabiensanglard.net/doomIphone/doomClassicRenderer.php
+
+
+Shaders
+https://thebookofshaders.com/00/
+
+bennybox
+https://www.youtube.com/channel/UCnlpv-hhcsAtEHKR2y2fW4Q
+
+Mega texture rendering (SIGGRAPH 2009) by ID tech
+http://s09.idav.ucdavis.edu/talks/05-JP_id_Tech_5_Challenges.pdf
+
+Distance Field Text rendering (SIGGRAPH 2007) by Valve:
+http://www.valvesoftware.com/publications/2007/SIGGRAPH2007_AlphaTestedMagnification.pdf
