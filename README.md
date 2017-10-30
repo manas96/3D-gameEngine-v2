@@ -5,6 +5,13 @@ New game engine
 GTA V graphics
 http://www.adriancourreges.com/blog/2015/11/02/gta-v-graphics-study/
 
+Doom 3 src
+https://github.com/id-Software/DOOM-3
+
+Doom 3 src review
+http://fabiensanglard.net/doom3/
+
+
 Doom graphics
 http://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/
 
