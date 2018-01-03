@@ -1,7 +1,33 @@
 # 3D-gameEngine-v2
-New game engine
+Few screenshots:
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------VARIOUS INTERESTING ARTICLES------------------------------------------------------------------
 GTA V graphics
 http://www.adriancourreges.com/blog/2015/11/02/gta-v-graphics-study/
 
