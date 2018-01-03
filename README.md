@@ -38,6 +38,8 @@ Normal Mapped surface (note that the specularity changes across the surface):
 
 
 ------------------------------VARIOUS INTERESTING ARTICLES------------------------------------------------------------------
+
+
 GTA V graphics
 http://www.adriancourreges.com/blog/2015/11/02/gta-v-graphics-study/
 
