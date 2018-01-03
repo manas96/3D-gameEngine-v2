@@ -1,7 +1,15 @@
 # 3D-gameEngine-v2
 Few screenshots:
+Day skybox:
 ![Screenshot](https://github.com/manas96/3D-gameEngine-v2/blob/master/src/skybox1.png)
-
+Night skybox:
+![Screenshot](https://github.com/manas96/3D-gameEngine-v2/blob/master/src/skybox2.png)
+Water shader:
+![Screenshot](https://github.com/manas96/3D-gameEngine-v2/blob/master/src/waterShader.png)
+Particle system:
+![Screenshot](https://github.com/manas96/3D-gameEngine-v2/blob/master/src/particlesystem.png)
+Normal Mapped surface (note the specularity):
+![Screenshot](https://github.com/manas96/3D-gameEngine-v2/blob/master/src/normalMap.png)
 
 
 
