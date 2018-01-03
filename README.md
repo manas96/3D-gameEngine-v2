@@ -1,6 +1,6 @@
 # 3D-gameEngine-v2
 Few screenshots:
-![Screenshot](https://github.com/manas96/3D-gameEngine-v2/tree/master/src/skybox1.png)
+![Screenshot](https://github.com/manas96/3D-gameEngine-v2/blob/master/src/skybox1.png)
 
 
 
