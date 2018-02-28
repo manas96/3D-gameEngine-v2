@@ -36,8 +36,7 @@ Normal Mapped surface (note that the specularity changes across the surface):
 
 
 
-
-------------------------------VARIOUS INTERESTING ARTICLES------------------------------------------------------------------
+Some interesting stuff I found while doing this:
 
 
 GTA V graphics
