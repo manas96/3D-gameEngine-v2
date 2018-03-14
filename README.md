@@ -1,6 +1,6 @@
 # 3D-gameEngine-v2
 Few screenshots:
-
+(Ignore the Pydev evnironment - I forgot to switch the Eclipse view)
 
 Day skybox:
 ![Screenshot](https://github.com/manas96/3D-gameEngine-v2/blob/master/src/skybox1.png)
